@@ -8,7 +8,7 @@
 
 와이어그램
 
-![5주차 팀프로젝트 와이어그램_ver2](https://github.com/user-attachments/assets/87c2241f-8728-4da1-9125-ba7e99a02b8b)
+![5주차 팀프로젝트 와이어그램_ver3](https://github.com/user-attachments/assets/fc6edd8b-9608-422b-85ec-a5de3e4307f6)
 
 
 ------------------------------------------------------------
